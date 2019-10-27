@@ -1,0 +1,6 @@
+
+1. First process the image
+
+python3 image_uploading pancard.jpg
+
+2. python3 text.py 
